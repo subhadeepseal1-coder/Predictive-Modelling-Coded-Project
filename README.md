@@ -1,6 +1,6 @@
 # Predictive-Modelling-Coded-Project
 ShowTime - OTT Data Analysis
-Course: Predictive Modeling
+Course:Predictive Modeling
 This project analyzes content data to develop a linear regression model predicting first-day viewership on ShowTime's OTT platform. By identifying key driver variables, we aim to optimize content scheduling, marketing strategies, and platform features to increase viewership and enhance user engagement.
 
 Skills & Tools Covered:
